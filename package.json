@@ -5,5 +5,9 @@
   "main": "index.json",
   "repository": "git@github.com:Zhur06/prettier-config.git",
   "author": "Alexander Zhuravlev <zhur06@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.3.0",
+    "prettier": "^3.2.5"
+  }
 }
