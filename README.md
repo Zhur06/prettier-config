@@ -22,20 +22,6 @@ npm i --save-dev https://github.com/Zhur06/prettier-config
 
 # Usefull stuff for code formatting
 
-## Add script to format
-
-In package.json add script
-
-```json
-{
-  // ...
-  "scripts": {
-    // ...
-    "format": "npx prettier . --write"
-  }
-}
-```
-
 ## Define vscode shortcut
 
 - Open command pallet (`cmd` `shift` `P`)
