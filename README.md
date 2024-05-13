@@ -7,7 +7,13 @@
 **Install**:
 
 ```bash
-$ yarn add --dev @azz/prettier-config
+yarn add --dev @zhur06/prettier-config
+```
+
+OR
+
+```bash
+npm install --save-dev @zhur06/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -15,6 +21,6 @@ $ yarn add --dev @azz/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "@zhur06/prettier-config"
 }
 ```
