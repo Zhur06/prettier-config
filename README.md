@@ -15,10 +15,9 @@ npm i --save-dev https://github.com/Zhur06/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@zhur06/prettier-config"
+  "prettier": "@zhur06/prettier-config",
 }
 ```
-
 
 # Usefull stuff for code formatting
 
@@ -40,4 +39,5 @@ npm i --save-dev https://github.com/Zhur06/prettier-config
   }
 }
 ```
+
 [More on keybinds](https://code.visualstudio.com/docs/getstarted/keybindings)
